@@ -1,7 +1,6 @@
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression, LinearRegression
-from google.colab import files
 import io
 from sklearn.impute import KNNImputer, SimpleImputer
 from sklearn.neighbors import KNeighborsClassifier, KNeighborsRegressor
